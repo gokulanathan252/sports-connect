@@ -1,0 +1,6 @@
+{
+  "name": "Sports Connect",
+  "description": "Premium multi-sport tournament management platform with live match center, interactive brackets, dynamic scoreboards, points table, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
